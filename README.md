@@ -17,7 +17,7 @@ This repository is focused on:
 ## 📋 Addon Status
 | Addon Name | Status | Updated & Published By | Original Author | Download |
 |---|---|---|---|---|
-| FluffyMachines | ✅ Updated | RuTwoK Labs | NCBPFluffyBear | Coming Soon |
+| FluffyMachines | ✅ Updated | RuTwoK Labs | NCBPFluffyBear | [Download](https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/FluffyMachines/releases/FluffyMachines%20v1.0.0.jar) |
 | ExoticGarden | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | PrivateStorage | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | DyedBackpacks | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
