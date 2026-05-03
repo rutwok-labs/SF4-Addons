@@ -12,21 +12,10 @@ addons:
     download: false
     auto-update: false
     version: "2605"
-    download-url: "https://github.com/rutwok-labs/SF4-Addons/releases/download/exoticgarden-2605/ExoticGarden-2605.jar"
+    download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/ExoticGarden/releases/ExoticGarden-2604.jar"
     sha256: ""
     checksum-url: ""
-    api-url: "https://api.github.com/repos/rutwok-labs/SF4-Addons/releases/latest"
-
-  infinityexpansion:
-    name: "InfinityExpansion"
-    enabled: false
-    download: false
-    auto-update: false
-    version: "2608"
-    download-url: "https://github.com/rutwok-labs/SF4-Addons/releases/download/infinityexpansion-2608/InfinityExpansion-2608.jar"
-    sha256: ""
-    checksum-url: ""
-    api-url: "https://api.github.com/repos/rutwok-labs/SF4-Addons/releases/latest"
+    api-url: ""
 
   electricspawners:
     name: "ElectricSpawners"
@@ -34,7 +23,18 @@ addons:
     download: false
     auto-update: false
     version: "100"
-    download-url: "https://github.com/rutwok-labs/SF4-Addons/releases/download/electricspawners-100/ElectricSpawners-100.jar"
+    download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/ElectricSpawners/releases/ElectricSpawners%20%23100.jar"
+    sha256: ""
+    checksum-url: ""
+    api-url: ""
+
+    fluffymachines:
+    name: "FluffyMachines"
+    enabled: false
+    download: false
+    auto-update: false
+    version: "1.0.0"
+    download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/FluffyMachines/releases/FluffyMachines%20v1.0.0.jar"
     sha256: ""
     checksum-url: ""
     api-url: ""
