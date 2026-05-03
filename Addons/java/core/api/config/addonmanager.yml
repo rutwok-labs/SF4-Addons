@@ -1,0 +1,40 @@
+cloud-sync:
+  enabled: true
+  url: "https://github.com/rutwok-labs/SF4-Addons/blob/main/Addons/java/core/api/config/addonmanager.yml"
+  interval-minutes: 10
+  fallback-to-local-on-empty: true
+  fallback-to-local-on-failure: true
+
+addons:
+  exoticgarden:
+    name: "ExoticGarden"
+    enabled: false
+    download: false
+    auto-update: false
+    version: "2605"
+    download-url: "https://github.com/rutwok-labs/SF4-Addons/releases/download/exoticgarden-2605/ExoticGarden-2605.jar"
+    sha256: ""
+    checksum-url: ""
+    api-url: "https://api.github.com/repos/rutwok-labs/SF4-Addons/releases/latest"
+
+  infinityexpansion:
+    name: "InfinityExpansion"
+    enabled: false
+    download: false
+    auto-update: false
+    version: "2608"
+    download-url: "https://github.com/rutwok-labs/SF4-Addons/releases/download/infinityexpansion-2608/InfinityExpansion-2608.jar"
+    sha256: ""
+    checksum-url: ""
+    api-url: "https://api.github.com/repos/rutwok-labs/SF4-Addons/releases/latest"
+
+  electricspawners:
+    name: "ElectricSpawners"
+    enabled: false
+    download: false
+    auto-update: false
+    version: "100"
+    download-url: "https://github.com/rutwok-labs/SF4-Addons/releases/download/electricspawners-100/ElectricSpawners-100.jar"
+    sha256: ""
+    checksum-url: ""
+    api-url: ""
