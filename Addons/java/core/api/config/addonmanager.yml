@@ -8,8 +8,8 @@ cloud-sync:
 addons:
   exoticgarden:
     name: "ExoticGarden"
-    enabled: false
-    download: false
+    enabled: false 
+    download: true
     auto-update: false
     version: "2605"
     download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/ExoticGarden/releases/ExoticGarden-2604.jar"
@@ -20,7 +20,7 @@ addons:
   electricspawners:
     name: "ElectricSpawners"
     enabled: false
-    download: false
+    download: true
     auto-update: false
     version: "100"
     download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/ElectricSpawners/releases/ElectricSpawners%20%23100.jar"
@@ -31,7 +31,7 @@ addons:
     fluffymachines:
     name: "FluffyMachines"
     enabled: false
-    download: false
+    download: true
     auto-update: false
     version: "1.0.0"
     download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/FluffyMachines/releases/FluffyMachines%20v1.0.0.jar"
