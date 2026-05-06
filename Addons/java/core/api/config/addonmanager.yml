@@ -1,6 +1,6 @@
 cloud-sync:
   enabled: true
-  url: "https://github.com/rutwok-labs/SF4-Addons/blob/main/Addons/java/core/api/config/addonmanager.yml"
+  url: "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/java/core/api/config/addonmanager.yml"
   interval-minutes: 10
   fallback-to-local-on-empty: true
   fallback-to-local-on-failure: true
@@ -11,9 +11,9 @@ addons:
     enabled: false
     download: false
     auto-update: false
-    version: "2605"
+    version: "2604"
     download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/ExoticGarden/releases/ExoticGarden-2604.jar"
-    sha256: ""
+    sha256: "09500992b7c6ae7f5c7d55bcd1a61160965c0189d93ced0aadfe41a6fd0f0f67"
     checksum-url: ""
     api-url: ""
 
@@ -24,7 +24,7 @@ addons:
     auto-update: false
     version: "100"
     download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/ElectricSpawners/releases/ElectricSpawners%20%23100.jar"
-    sha256: ""
+    sha256: "8106b93f8472b56294e4127e1620c5cac456b28ead45a818cf8057ae4afa3bc6"
     checksum-url: ""
     api-url: ""
 
@@ -35,6 +35,6 @@ addons:
     auto-update: false
     version: "1.0.0"
     download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/FluffyMachines/releases/FluffyMachines%20v1.0.0.jar"
-    sha256: ""
+    sha256: "b8a9b83cc0c4a4be067b72a67cb419ba2ed3dc31a111166f52cf6565f800c366"
     checksum-url: ""
     api-url: ""

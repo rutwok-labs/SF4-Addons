@@ -11,7 +11,7 @@ This repository is focused on:
 ## 💻 Compatibility
 - **Minecraft:** `1.21.11`
 - **Server Software:** `Paper / Purpur`
-- **Core:** `Slimefun 4.9-UNOFFICIAL`
+- **Core:** `Slimefun 4.0-UNOFFICIAL`
 - **Java:** `21`
 
 ## 📋 Addon Status
@@ -25,7 +25,7 @@ This repository is focused on:
 | Networks | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | SoulJars | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | ElectricSpawners | ✅ Updated | RuTwoK Labs | SF Addon Community | [Download](https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/ElectricSpawners/ElectricSpawners%20%23100.jar) |
-| InfinityExpansion | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
+| InfinityExpansion | ✅ Updated| RuTwoK Labs | TBA | [Download](https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/InfinityExpansion/releases/....) |
 | SlimeTinker | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | LiteXpansion | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | FoxyMachines | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
