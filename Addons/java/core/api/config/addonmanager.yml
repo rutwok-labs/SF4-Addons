@@ -46,6 +46,6 @@ addons:
     auto-update: false
     version: "2617"
     download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/InfinityExpansion/releases/InfinityExpansion-2617.jar"
-    sha256: "d1c8e5a9b0c3e7f2a1b6c8e5f4a9b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8g9h"
+    sha256: "460086f6dabcc5bfa2cf168d5adce5a243cfd622f91322951024e477bbec004e"
     checksum-url: ""
     api-url: ""
