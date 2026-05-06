@@ -25,7 +25,7 @@ This repository is focused on:
 | Networks | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | SoulJars | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | ElectricSpawners | ✅ Updated | RuTwoK Labs | SF Addon Community | [Download](https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/ElectricSpawners/ElectricSpawners%20%23100.jar) |
-| InfinityExpansion | ✅ Updated| RuTwoK Labs | TBA | [Download](https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/InfinityExpansion/releases/....) |
+| InfinityExpansion | ✅ Updated| RuTwoK Labs | TBA | [Download](https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/InfinityExpansion/releases/InfinityExpansion-2617.jar) |
 | SlimeTinker | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | LiteXpansion | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | FoxyMachines | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
