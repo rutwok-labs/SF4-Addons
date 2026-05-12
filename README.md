@@ -28,7 +28,7 @@ This repository is focused on:
 | InfinityExpansion | ✅ Updated| RuTwoK Labs | TBA | [Download](https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/InfinityExpansion/releases/InfinityExpansion-2617.jar) |
 | SlimeTinker | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | LiteXpansion | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
-| FoxyMachines | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
+| FoxyMachines | ✅ Updated | RuTwoK Labs | TBA | Ingame |
 | TranscEndence | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | EcoPower | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | EcoTech | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
