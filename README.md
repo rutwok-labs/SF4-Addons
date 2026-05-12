@@ -17,20 +17,20 @@ This repository is focused on:
 ## 📋 Addon Status
 | Addon Name | Status | Updated & Published By | Original Author | Download |
 |---|---|---|---|---|
-| FluffyMachines | ✅ Updated | RuTwoK Labs | NCBPFluffyBear | [Download](https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/FluffyMachines/releases/FluffyMachines%20v1.0.0.jar) |
-| ExoticGarden | ✅ Updated | RuTwoK Labs | Community Addon | [Download](https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/ExoticGarden/releases/ExoticGarden-2604.jar) |
+| FluffyMachines | ✅ Updated | RuTwoK Labs | NCBPFluffyBear | INGame |
+| ExoticGarden | ✅ Updated | RuTwoK Labs | Community Addon | INGame |
 | PrivateStorage | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | DyedBackpacks | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | ExtraGear | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | Networks | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | SoulJars | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
-| ElectricSpawners | ✅ Updated | RuTwoK Labs | SF Addon Community | [Download](https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/ElectricSpawners/ElectricSpawners%20%23100.jar) |
-| InfinityExpansion | ✅ Updated| RuTwoK Labs | TBA | [Download](https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/InfinityExpansion/releases/InfinityExpansion-2617.jar) |
+| ElectricSpawners | ✅ Updated | RuTwoK Labs | SF Addon Community | INGame |
+| InfinityExpansion | ✅ Updated| RuTwoK Labs | TBA | INGame |
 | SlimeTinker | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | LiteXpansion | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | FoxyMachines | ✅ Updated | RuTwoK Labs | TBA | Ingame |
 | TranscEndence | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
-| EcoPower | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
+| EcoPower | ✅ Updated | RuTwoK Labs | TBA | INGame|
 | EcoTech | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | SlimyTreeTaps | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |
 | ExtraTools | 🕒 Coming Soon | RuTwoK Labs | TBA | Coming Soon |

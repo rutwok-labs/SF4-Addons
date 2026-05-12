@@ -11,7 +11,7 @@ addons:
     enabled: false
     download: false
     auto-update: false
-    version: "2607"
+    version: "1.21.11"
     download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/ExoticGarden/releases/ExoticGarden-2607.jar"
     sha256: ""
     checksum-url: ""
@@ -22,7 +22,7 @@ addons:
     enabled: false
     download: false
     auto-update: false
-    version: "100"
+    version: "1.21.11"
     download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/ElectricSpawners/releases/ElectricSpawners%20%23100.jar"
     sha256: ""
     checksum-url: ""
@@ -33,7 +33,7 @@ addons:
     enabled: false
     download: false
     auto-update: false
-    version: "1.0.0"
+    version: "1.21.11"
     download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/FluffyMachines/releases/FluffyMachines%20v1.0.0.jar"
     sha256: ""
     checksum-url: ""
@@ -44,7 +44,7 @@ addons:
     enabled: false
     download: false
     auto-update: false
-    version: "2617"
+    version: "1.21.11"
     download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/InfinityExpansion/releases/InfinityExpansion-2617.jar"
     sha256: ""
     checksum-url: ""
@@ -55,7 +55,7 @@ addons:
     enabled: false
     download: false
     auto-update: false
-    version: "2602"
+    version: "1.21.11"
     download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/FoxyMachines/releases/FoxyMachines.jar"
     sha256: ""
     checksum-url: ""
@@ -66,8 +66,19 @@ addons:
     enabled: false
     download: false
     auto-update: false
-    version: "2602"
+    version: "1.21.11"
     download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/AdvancedTech/releases/AdvancedTech-2602.jar"
+    sha256: ""
+    checksum-url: ""
+    api-url: ""
+
+  ecopower:
+    name: "ecopower"
+    enabled: false
+    download: false
+    auto-update: false
+    version: "1.21.11"
+    download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/EcoPower/releases/EcoPower.jar"
     sha256: ""
     checksum-url: ""
     api-url: ""
