@@ -13,7 +13,7 @@ cloud-sync:
     "1.21.11": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/java/core/api/config/addonmanager.yml"
     "1.20.4": ""
     "1.19.4": ""
-  interval-minutes: 10
+  interval-minutes: 3
   fallback-to-local-on-empty: true
   fallback-to-local-on-failure: true
 
@@ -113,7 +113,6 @@ addons:
     enabled: false
     download: false
     auto-update: false
-    download-url: "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/EcoPower/releases/EcoPower.jar"
     sha256: ""
     checksum-url: ""
     api-url: ""
