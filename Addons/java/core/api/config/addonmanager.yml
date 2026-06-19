@@ -28,8 +28,8 @@ addons:
     api-url: ""
     versions:
       "26.0.2": ""
-      "26.0.1": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/ExoticGarden/26.0.1/releases"
-      "1.21.11": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/ExoticGarden/1.21.11/releases"
+      "26.0.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExoticGarden/26.0.1/releases"
+      "1.21.11": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExoticGarden/1.21.11/releases"
       "1.20.4": ""
       "1.19.4": ""
 
@@ -43,8 +43,8 @@ addons:
     api-url: ""
     versions:
       "26.0.2": ""
-      "26.0.1": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/ElectricSpawners/26.0.1/releases"
-      "1.21.11": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/ElectricSpawners/1.21.11/releases"
+      "26.0.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ElectricSpawners/26.0.1/releases"
+      "1.21.11": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ElectricSpawners/1.21.11/releases"
       "1.20.4": ""
       "1.19.4": ""
 
@@ -58,8 +58,8 @@ addons:
     api-url: ""
     versions:
       "26.0.2": ""
-      "26.0.1": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/FluffyMachines/26.0.1/releases"
-      "1.21.11": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/FluffyMachines/1.21.11/releases"
+      "26.0.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/FluffyMachines/26.0.1/releases"
+      "1.21.11": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/FluffyMachines/1.21.11/releases"
       "1.20.4": ""
       "1.19.4": ""
 
@@ -74,7 +74,7 @@ addons:
     versions:
       "26.0.2": ""
       "26.0.1": ""
-      "1.21.11": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/InfinityExpansion/1.21.11/releases"
+      "1.21.11": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/InfinityExpansion/1.21.11/releases"
       "1.20.4": ""
       "1.19.4": ""
 
@@ -88,8 +88,8 @@ addons:
     api-url: ""
     versions:
       "26.0.2": ""
-      "26.0.1": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/FoxyMachines/26.0.1/releases"
-      "1.21.11": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/FoxyMachines/1.21.11/releases"
+      "26.0.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/FoxyMachines/26.0.1/releases"
+      "1.21.11": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/FoxyMachines/1.21.11/releases"
       "1.20.4": ""
       "1.19.4": ""
 
@@ -103,8 +103,8 @@ addons:
     api-url: ""
     versions:
       "26.0.2": ""
-      "26.0.1": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/AdvancedTech/26.0.1/releases"
-      "1.21.11": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/AdvancedTech/1.21.11/releases"
+      "26.0.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/AdvancedTech/26.0.1/releases"
+      "1.21.11": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/AdvancedTech/1.21.11/releases"
       "1.20.4": ""
       "1.19.4": ""
 
@@ -118,8 +118,8 @@ addons:
     api-url: ""
     versions:
       "26.0.2": ""
-      "26.0.1": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/EcoPower/26.0.1/releases"
-      "1.21.11": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/EcoPower/1.21.11/releases"
+      "26.0.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/EcoPower/26.0.1/releases"
+      "1.21.11": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/EcoPower/1.21.11/releases"
       "1.20.4": ""
       "1.19.4": ""
 
@@ -134,6 +134,6 @@ addons:
     versions:
       "26.0.2": ""
       "26.0.1": ""
-      "1.21.11": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/Supreme/1.21.11/releases"
+      "1.21.11": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/Supreme/1.21.11/releases"
       "1.20.4": ""
       "1.19.4": ""
