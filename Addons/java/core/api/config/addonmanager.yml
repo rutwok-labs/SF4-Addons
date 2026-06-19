@@ -133,7 +133,7 @@ addons:
     api-url: ""
     versions:
       "26.0.2": ""
-      "26.0.1": "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/Supreme/releases/Supreme-2000.jar"
-      "1.21.11": "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/Supreme/releases/Supreme-2000.jar"
+      "26.0.1": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/Supreme/releases/Supreme-2000.jar"
+      "1.21.11": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/Supreme/releases/Supreme-2000.jar"
       "1.20.4": ""
-      "1.19.4": "https://github.com/rutwok-labs/SF4-Addons/raw/refs/heads/main/Addons/Supreme/releases/Supreme-2000.jar"
+      "1.19.4": "https://raw.githubusercontent.com/rutwok-labs/SF4-Addons/main/Addons/Supreme/releases/Supreme-2000.jar"
