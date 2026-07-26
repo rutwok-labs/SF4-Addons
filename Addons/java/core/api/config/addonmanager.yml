@@ -29,7 +29,7 @@ addons:
     checksum-url: ""
     api-url: ""
     versions:
-      "26.2": ""
+      "26.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/EcoPower/26.2/releases"
       "26.1.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExoticGarden/26.1.2/releases"
       "26.1.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExoticGarden/26.1.1/releases"
       "26.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExoticGarden/26.1/releases"
@@ -46,7 +46,7 @@ addons:
     checksum-url: ""
     api-url: ""
     versions:
-      "26.2": ""
+      "26.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/EcoPower/26.2/releases"
       "26.1.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ElectricSpawners/26.1.2/releases"
       "26.1.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ElectricSpawners/26.1.1/releases"
       "26.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ElectricSpawners/26.1/releases"
@@ -63,7 +63,7 @@ addons:
     checksum-url: ""
     api-url: ""
     versions:
-      "26.2": ""
+      "26.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/EcoPower/26.2/releases"
       "26.1.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/FluffyMachines/26.1.2/releases"
       "26.1.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/FluffyMachines/26.1.1/releases"
       "26.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/FluffyMachines/26.1/releases"
@@ -80,7 +80,7 @@ addons:
     checksum-url: ""
     api-url: ""
     versions:
-      "26.2": ""
+      "26.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/EcoPower/26.2/releases"
       "26.1.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/InfinityExpansion/26.1.2/releases"
       "26.1.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/InfinityExpansion/26.1.1/releases"
       "26.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/InfinityExpansion/26.1/releases"
@@ -97,7 +97,7 @@ addons:
     checksum-url: ""
     api-url: ""
     versions:
-      "26.2": ""
+      "26.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/EcoPower/26.2/releases"
       "26.1.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/FoxyMachines/26.1.2/releases"
       "26.1.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/FoxyMachines/26.1.1/releases"
       "26.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/FoxyMachines/26.1/releases"
@@ -114,7 +114,7 @@ addons:
     checksum-url: ""
     api-url: ""
     versions:
-      "26.2": ""
+      "26.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/EcoPower/26.2/releases"
       "26.1.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/AdvancedTech/26.1.2/releases"
       "26.1.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/AdvancedTech/26.1.1/releases"
       "26.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/AdvancedTech/26.1/releases"
@@ -131,7 +131,7 @@ addons:
     checksum-url: ""
     api-url: ""
     versions:
-      "26.2": ""
+      "26.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/EcoPower/26.2/releases"
       "26.1.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/EcoPower/26.1.2/releases"
       "26.1.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/EcoPower/26.1.1/releases"
       "26.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/EcoPower/26.1/releases"
@@ -148,7 +148,7 @@ addons:
     checksum-url: ""
     api-url: ""
     versions:
-      "26.2": ""
+      "26.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/EcoPower/26.2/releases"
       "26.1.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/Supreme/26.1.2/releases"
       "26.1.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/Supreme/26.1.1/releases"
       "26.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/Supreme/26.1/releases"
