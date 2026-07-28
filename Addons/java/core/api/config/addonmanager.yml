@@ -156,3 +156,36 @@ addons:
       "1.20.4": ""
       "1.19.4": ""
 
+  ExtraGear:
+    name: "ExtraGear"
+    enabled: false
+    download: false
+    auto-update: false
+    sha256: ""
+    checksum-url: ""
+    api-url: ""
+    versions:
+      "26.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExtraGear/26.2/releases"
+      "26.1.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExtraGear/26.1.2/releases"
+      "26.1.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExtraGear/26.1.1/releases"
+      "26.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExtraGear/26.1/releases"
+      "1.21.11": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExtraGear/1.21.11/releases"
+      "1.20.4": ""
+      "1.19.4": ""
+
+  ExtraTools:
+    name: "ExtraTools"
+    enabled: false
+    download: false
+    auto-update: false
+    sha256: ""
+    checksum-url: ""
+    api-url: ""
+    versions:
+      "26.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExtraTools/26.2/releases"
+      "26.1.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExtraTools/26.1.2/releases"
+      "26.1.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExtraTools/26.1.1/releases"
+      "26.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExtraTools/26.1/releases"
+      "1.21.11": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/ExtraTools/1.21.11/releases"
+      "1.20.4": ""
+      "1.19.4": ""   
