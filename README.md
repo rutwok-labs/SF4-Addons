@@ -17,16 +17,16 @@ This repository is focused on:
 ## 📋 Addon Status
 | Addon Name | Status | Updated & Published By | Original Author | Download |
 |---|---|---|---|---|
-| AdvancedTech | ✅ Updated | RuTwoK Labs | TBA | INGame |
-| EcoPower | ✅ Updated | RuTwoK Labs | TBA | INGame |
-| ElectricSpawners | ✅ Updated | RuTwoK Labs | SF Addon Community | INGame |
+| AdvancedTech | ✅ Updated | RuTwoK Labs | pranavverma | INGame |
+| EcoPower | ✅ Updated | RuTwoK Labs | TheBusyBiscuit | INGame |
+| ElectricSpawners | ✅ Updated | RuTwoK Labs | TheBusyBiscuit | INGame |
 | ExoticGarden | ✅ Updated | RuTwoK Labs | Community Addon | INGame |
-| ExtraGear | ✅ Updated | RuTwoK Labs | TBA | INGame |
-| ExtraTools | ✅ Updated | RuTwoK Labs | TBA | INGame |
+| ExtraGear | ✅ Updated | RuTwoK Labs | TheBusyBiscuit | INGame |
+| ExtraTools | ✅ Updated | RuTwoK Labs | Sfiguz7 | INGame |
 | FluffyMachines | ✅ Updated | RuTwoK Labs | NCBPFluffyBear | INGame |
-| FoxyMachines | ✅ Updated | RuTwoK Labs | TBA | INGame |
-| InfinityExpansion | ✅ Updated | RuTwoK Labs | TBA | INGame |
-| Supreme | ✅ Updated | RuTwoK Labs | TBA | INGame |
+| FoxyMachines | ✅ Updated | RuTwoK Labs | GallowsDove | INGame |
+| InfinityExpansion | ✅ Updated | RuTwoK Labs | Mooy1 | INGame |
+| Supreme | ✅ Updated | RuTwoK Labs | RelativoBR, Especttra, WilianSantosBR e Mynothauro | INGame |
 
 ## 📝 Notes
 - `Updated` means the addon has been ported or patched for the current SF4 core.
