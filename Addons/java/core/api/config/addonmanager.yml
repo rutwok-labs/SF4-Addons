@@ -24,7 +24,7 @@ addons:
     name: "ExoticGarden"
     enabled: false
     download: false
-    auto-update: false
+    auto-update: true
     sha256: ""
     checksum-url: ""
     api-url: ""
@@ -41,7 +41,7 @@ addons:
     name: "ElectricSpawners"
     enabled: false
     download: false
-    auto-update: false
+    auto-update: true
     sha256: ""
     checksum-url: ""
     api-url: ""
@@ -58,7 +58,7 @@ addons:
     name: "FluffyMachines"
     enabled: false
     download: false
-    auto-update: false
+    auto-update: true
     sha256: ""
     checksum-url: ""
     api-url: ""
@@ -75,7 +75,7 @@ addons:
     name: "InfinityExpansion"
     enabled: false
     download: false
-    auto-update: false
+    auto-update: true
     sha256: ""
     checksum-url: ""
     api-url: ""
@@ -92,7 +92,7 @@ addons:
     name: "FoxyMachines"
     enabled: false
     download: false
-    auto-update: false
+    auto-update: true
     sha256: ""
     checksum-url: ""
     api-url: ""
@@ -109,7 +109,7 @@ addons:
     name: "AdvancedTech"
     enabled: false
     download: false
-    auto-update: false
+    auto-update: true
     sha256: ""
     checksum-url: ""
     api-url: ""
@@ -126,7 +126,7 @@ addons:
     name: "EcoPower"
     enabled: false
     download: false
-    auto-update: false
+    auto-update: true
     sha256: ""
     checksum-url: ""
     api-url: ""
@@ -143,7 +143,7 @@ addons:
     name: "Supreme"
     enabled: false
     download: false
-    auto-update: false
+    auto-update: true
     sha256: ""
     checksum-url: ""
     api-url: ""
@@ -160,7 +160,7 @@ addons:
     name: "ExtraGear"
     enabled: false
     download: false
-    auto-update: false
+    auto-update: true
     sha256: ""
     checksum-url: ""
     api-url: ""
@@ -177,7 +177,7 @@ addons:
     name: "ExtraTools"
     enabled: false
     download: false
-    auto-update: false
+    auto-update: true
     sha256: ""
     checksum-url: ""
     api-url: ""
@@ -194,7 +194,7 @@ addons:
     name: "slimytreetaps"
     enabled: false
     download: false
-    auto-update: false
+    auto-update: true
     sha256: ""
     checksum-url: ""
     api-url: ""
@@ -206,3 +206,20 @@ addons:
       "1.21.11": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/slimytreetaps/1.21.11/releases"
       "1.20.4": ""
       "1.19.4": ""   
+
+  Networks:
+    name: "networks"
+    enabled: false
+    download: false
+    auto-update: true
+    sha256: ""
+    checksum-url: ""
+    api-url: ""
+    versions:
+      "26.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/Networks/26.2/releases"
+      "26.1.2": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/Networks/26.1.2/releases"
+      "26.1.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/Networks/26.1.1/releases"
+      "26.1": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/Networks/26.1/releases"
+      "1.21.11": "https://github.com/rutwok-labs/SF4-Addons/tree/main/Addons/Networks/1.21.11/releases"
+      "1.20.4": ""
+      "1.19.4": ""         
